@@ -71,4 +71,3 @@ function reiniciarJogo() {
 
 
 
-/// dsdsvhiygdvihbs osidfhvodf
